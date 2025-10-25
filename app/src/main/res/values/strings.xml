@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Obsidian Widget</string>
+    <string name="widget_label">New Note</string>
+    <string name="widget_button_description">Create new Obsidian Note</string>
+    <string name="app_name_wrappable">New Note</string>
+</resources>
