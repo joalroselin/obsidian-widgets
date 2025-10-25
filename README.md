@@ -57,9 +57,20 @@ This app is not on the Google Play Store. You must install it manually from the 
 
 ---
 
+## 💖 Support This Project
+
+If you find this widget helpful and want to show your support, you can!
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/hellojoal)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/helloJoal)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/helloJRL)
+
+---
+
 ## 🤖 Acknowledgements
 
-This project was built with significant assistance and pair-programming from **Gemini**, Google's AI assistant.
+This project was built with coffee, and significant assistance and pair-programming from **Gemini**, Google's AI assistant.
+Because I can't with android.
 
 ---
 
