@@ -24,8 +24,7 @@ When you first add the widget, a configuration screen will pop up, allowing you 
 
 This app is not on the Google Play Store. You must install it manually from the `.apk` file.
 
-1.  Go to the **[Releases Page](https://github.com/YOUR_USERNAME/YOUR_REPO/releases)** to download the latest `.apk` file.
-    *(Note: You'll need to update this link to point to your repository.)*
+1.  Go to the **[Releases Page](https://github.com/joalroselin/obsidian-widgets/releases)** to download the latest `.apk` file.
 2.  Open your phone's **"Files"** app and find the `.apk` file you just downloaded.
 3.  Tap on the file.
 4.  Your phone will show a security warning: **"For your security, your phone is not allowed to install unknown apps from this source."**
